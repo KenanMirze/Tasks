@@ -4,16 +4,12 @@ using namespace std;
 int main() {
     double a, b;
     char op;
-
     cout << "Birinci ededi daxil edin: ";
     cin >> a;
-
     cout << "Operatoru daxil edin (+, -, *, /): ";
     cin >> op;
-
     cout << "Ikinci ededi daxil edin: ";
     cin >> b;
-
     switch (op) {
         case '+':
             cout << "Netice: " << a + b << endl;
@@ -27,12 +23,6 @@ int main() {
         case '/':
             if (b != 0)
                 cout << "Netice: " << a / b << endl;
-            else
-                cout << "Xeta: 0-a bolmek olmaz!" << endl;
-            break;
-        default:
-            cout << "Xeta: duzgun operator daxil edin!" << endl;
-    }
-
     return 0;
 }
+

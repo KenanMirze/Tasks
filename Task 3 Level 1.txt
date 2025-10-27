@@ -6,7 +6,7 @@ int main() {
     cin >> a;
     cout << "Kvadrat: " << a*a << endl;
     cout << "Kub: " << a*a*a << endl;
-
     return 0;
 }
+
 

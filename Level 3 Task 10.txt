@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     int N;
-    cout << "Ilk N Fibonacci elementini daxil edin: ";
+    cout << "Daxil edin: ";
     cin >> N;
     int a=0, b=1, n;
     for (int i=1; i<=N; i++) {
@@ -13,4 +13,5 @@ int main() {
     }
     cout << endl;
     return 0;
+
 }

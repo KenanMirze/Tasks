@@ -1,15 +1,12 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     double t, f, c;
     int choice;
-
     cout << "1. Selsidən Fahrenheit-ə çevirmək" << endl;
     cout << "2. Fahrenheit-dən Selsi-yə çevirmək" << endl;
     cout << "Seçiminizi edin: ";
     cin >> choice;
-
     if (choice==1) {
         cout << "Selsi temperaturunu daxil edin: ";
         cin >> t;
@@ -24,3 +21,4 @@ int main() {
     } 
     return 0;
 }
+

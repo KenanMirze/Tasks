@@ -1,12 +1,9 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     int bal;
-
     cout << "Imtahan balini daxil edin (0-100): ";
     cin >> bal;
-
     if (bal>=0 && bal<=50) {
         cout << "Qiymət: F" << endl;
     } else if (bal>=51 && bal<=60) {
@@ -20,6 +17,5 @@ int main() {
     } else if (bal>=91 && bal<=100) {
         cout << "Qiymət: A" << endl;
     }
-
     return 0;
 }

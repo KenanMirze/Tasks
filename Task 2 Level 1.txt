@@ -14,7 +14,7 @@ int main() {
     } else {
         cout << "Sıfıra bölmə mümkün deyil!" << endl;
     }
-
     return 0;
 }
+
 

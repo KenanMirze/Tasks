@@ -46,3 +46,24 @@
 13.	Rəqəmləri ədədi tərsinə çevirən və palindrome olub-olmadığını yoxlayan proqram.  
 14.	1-dən 100-ə qədər ədədlər arasında yalnız 3-ə və 7-yə bölünənləri yazın.  
 15.	İstifadəçidən N ədəd alın və onların cəmini tapın.
+
+
+ 🧩 Level 4 — Qarışıq tapşırıqlar (Dövr və şərt)
+
+1.	İstifadəçidən bir ədəd alın. 1-dən həmin ədədə qədər olan **bütün cüt ədədlərin kvadratlarının cəmini** tapın.  
+2.	Verilmiş ədədin **rəqəmlərinin sayını** hesablayın.  
+3.	İstifadəçidən N daxil edin və **N-dən kiçik bütün sadə ədədləri** ekrana çıxarın.  
+4.	Rəqəmlərinin cəmi 10-a bərabər olan 3 rəqəmli ədədləri ekrana çıxarın.  
+5.	İstifadəçi ədəd daxil edir — həmin ədədin **tam bölənlərinin sayını** tapın.  
+6.	İstifadəçidən N ədəd alın və ən böyüyünü, ən kiçiyini və ortalamasını tapın.  
+7.	Rəqəmlərinin kvadratlarının cəmi özünə bərabər olan ədədləri (Armstrong numbers) tapın.  
+8.	İstifadəçidən bir ədəd alın və onun **binary (ikili)** formasını tapın.  
+9.	1-dən 1000-ə qədər bütün **palindrome ədədləri** tapın.  
+10.	Sadə kalkulyator yaradın: istənilən sayda əməliyyatı qəbul edib nəticəni hesablasın.  
+11.	Fibonacci ədədləri arasında 1000-dən kiçik olanları çap edin.  
+12.	İstifadəçidən daxil edilən ədədin **mükəmməl ədəd** (bölənlərinin cəmi özünə bərabər) olub-olmadığını yoxlayın.  
+13.	Tək və cüt indekslərdəki ədədlərin cəmini ayrı-ayrı hesablayan proqram yazın.  
+14.	Ədədin rəqəmlərinin tərsini tapın və əvvəlki ədəd ilə bərabər olub-olmadığını yoxlayın.  
+15.	İstifadəçidən ardıcıl ədəd daxil etməsini istəyin, 0 daxil edildikdə dövr bitsin və ən böyük ədəd çap olunsun.
+
+
